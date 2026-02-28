@@ -1,0 +1,3 @@
+# Arabic NLP Utils - Development Dependencies
+pytest>=7.0
+pytest-cov
